@@ -18,3 +18,5 @@ Class Diagram
  Inheritance
 Virtual methods – Overridable methods
 Polymorphism
+
+#ch16. Interfaces - Abstract Classes
