@@ -24,5 +24,4 @@ Polymorphism
 #ch17  Nested Classes, Anonymous Classes, Lambdas, Method References, Mixin interfaces
 
 #ch 18 LayeredArchitectures-DAO-MVC-SOA
-
-A Mobile Contact App with N-Tier/ SOA 
+  A Mobile Contact App with N-Tier/ SOA 
