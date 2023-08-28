@@ -22,3 +22,6 @@ Polymorphism
 #ch16. Interfaces - Abstract Classes
 
 #ch17  Nested Classes, Anonymous Classes, Lambdas, Method References, Mixin interfaces
+
+#ch 18 LayeredArchitectures-DAO-MVC-SOAΑρχείο
+A Mobile Contact App with N-Tier/ SOA 
