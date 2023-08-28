@@ -13,3 +13,8 @@ Class Diagram
  Utility Classes, 
  Static Factory Methods, 
  Reflection
+
+ #ch15
+ Inheritance
+Virtual methods – Overridable methods
+Polymorphism
