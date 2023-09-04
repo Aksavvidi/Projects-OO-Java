@@ -1,7 +1,7 @@
 # Projects-OO-Java
 Learning and practicing OO Programming Java 
 
-#TSApp (Teacher-Student App) with Jva Swing
+#TSApp (Teacher-Student App) with Java Swing
 
 #Ch11-12
 Public API - UML - Javadocs - Composition - Immutable ClassesΑρχείο
